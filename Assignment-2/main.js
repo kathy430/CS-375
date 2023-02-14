@@ -7,7 +7,7 @@ function init() {
      render();
 }
 
-funtion render() {
+function render() {
      gl.clear(gl.COLOR_BUFFER_BIT);
      cone.render();
 }
